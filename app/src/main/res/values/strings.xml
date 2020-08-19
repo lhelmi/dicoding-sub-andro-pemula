@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmisiAndroid</string>
+    <string name="name">Cat Names</string>
+    <string name="content_main">Cat</string>
+    <string name="nama_ilmiah">Scientific name</string>
+    <string name="deskripsi">Description</string>
+    <string name="content_overview">content overview</string>
+    <string name="nama_pembuat">Muhammad Helmi Hibatullah</string>
+    <string name="email">lazer.helmi@gmail.com</string>
+    <string name="favorite">Favorite</string>
+</resources>
